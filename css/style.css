@@ -1,19 +1,15 @@
-
-.card{
-    box-shadow: 0 0.1em 0.2em 0 grey;
-    margin-bottom: 5em;
-}
-
-.icono{
-    height: 4em;
-    width: 4em;
-    display: flex;
-}
-
 .cardBody{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50em;
+    
 }
 
 .cartas{
